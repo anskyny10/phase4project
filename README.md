@@ -44,8 +44,10 @@ Favorites Page
 ![image](https://github.com/user-attachments/assets/148adfa6-f02b-44a2-be16-d22acfc7a903)
 
 ## Schema
+![image](https://github.com/user-attachments/assets/2e30a6d9-8ec6-4165-bf90-7d540a09e30c)
 
 ## API Routes
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/70a43152-8751-4f52-a9df-f3394cdaeba0">
 
 ## Stretch Goals
 
