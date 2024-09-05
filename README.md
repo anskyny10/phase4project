@@ -29,7 +29,7 @@ Favorites Page
 
 ## User Stories
 
-1. Users can create an account to access the platform
+1. Users can create a basic account (global user) to access the platform
 2. Users complete their profile to be able to view the homepage including adding their projects and selecting interests
 3. View a collection of profiles by default on the homepage with the menu options to view projects and interests
 4. Users can click to view more details about other users to see their full profile
@@ -55,7 +55,8 @@ Favorites Page
 
 1. Users can enter desires (what they are looking for or building), search for and view desires, and click to collaborate
 2. Display most upvoted projects and filter
-3. Recruiters can post jobs and users can view jobs
+3. Add authorization and authentication for users
+4. Recruiters can post jobs and users can view jobs
 
 ## Kanban Board
 https://trello.com/b/QsYydeA5/phase-iv-kanban
