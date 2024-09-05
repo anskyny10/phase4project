@@ -59,6 +59,8 @@ Favorites Page
 
 ## Kanban Board
 https://trello.com/b/QsYydeA5/phase-iv-kanban
+![image](https://github.com/user-attachments/assets/173424f5-e409-4fee-97ca-4af9898bb80f)
+
 
 ## Constraints
 
