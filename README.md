@@ -19,6 +19,7 @@ Projectify is a straightforward platform that allows students and professionals 
 7. Users can comment on projects and upvote
 8. Users can edit their own profile (including projects and interests)
 9. View About page for platform info
+10. Users can log out or delete their account?
 
 ## React Tree Diagram
 ![image](https://github.com/user-attachments/assets/148adfa6-f02b-44a2-be16-d22acfc7a903)
