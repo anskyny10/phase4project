@@ -7,6 +7,16 @@
 Projectify is a straightforward platform that allows students and professionals to showcase their work and connect with other students or professionals and recruiters based on interests/desires.
 
 ## Wireframe
+Home Page
+![projectify](https://github.com/user-attachments/assets/fc443428-d03a-4123-9143-70f86cd08e41)
+Search 
+![Searcp4](https://github.com/user-attachments/assets/b218939f-c2be-4558-abd3-afdb29821760)
+Profile Page
+![profilep4](https://github.com/user-attachments/assets/db83923f-6cea-49e5-97d2-4dc83e5b083d)
+Project Page
+![projectsp4](https://github.com/user-attachments/assets/38f3c26d-56b9-44ee-b640-1be8cea4be27)
+Favorites Page
+![favoritesp4](https://github.com/user-attachments/assets/fc0fce26-6b44-49af-ac13-63b566c431a8)
 
 ## User Stories
 
